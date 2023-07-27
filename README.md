@@ -16,7 +16,7 @@ These are all my inidividual projects, rushes and exams in my C-Pisicine of [42 
 |  01  |Shell01       | [Shell01/](https://github.com/somedevv/42-Piscine/tree/master/Shell01)  | ex01 --> ex08 | [![psapio's 42 C Piscine Shell 01 Score](https://badge42.vercel.app/api/v2/clklanx69005408jmzbzbfzed/project/3186646)](https://github.com/JaeSeoKim/badge42) |
 |  02  |C00        | [C00/](https://github.com/somedevv/42-C-Piscine/tree/master/C00)  | ex00 --> ex08   | [![psapio's 42 C Piscine C 00 Score](https://badge42.vercel.app/api/v2/clklanx69005408jmzbzbfzed/project/3175126)](https://github.com/JaeSeoKim/badge42) |
 |  03  |C01     | [C01/](https://github.com/somedevv/42-C-Piscine/tree/master/C01)  | ex00 --> ex08 | [![psapio's 42 C Piscine C 01 Score](https://badge42.vercel.app/api/v2/clklanx69005408jmzbzbfzed/project/3190128)](https://github.com/JaeSeoKim/badge42) |
-|  04  |C02     | [C02/](https://github.com/somedevv/42-C-Piscine/tree/master/C02)  | ex00 --> ex12 | [![agaliste's 42 C Piscine C 02 Score](https://badge42.vercel.app/api/v2/cl4912ys5011709jxmyk6gwno/project/2047024)](https://github.com/JaeSeoKim/badge42) |
+|  04  |C02     | [C02/](https://github.com/somedevv/42-C-Piscine/tree/master/C02)  | ex00 --> ex12 |  |
 |  05  |C03     | [C03/](https://github.com/somedevv/42-C-Piscine/tree/master/C03)  | ex00 --> ex05 |  |
 |  06  |C04     | [C04/](https://github.com/somedevv/42-C-Piscine/tree/master/C04)  | ex00 --> ex05 |  |
 |  07  |C05     | [C05/](https://github.com/somedevv/42-C-Piscine/tree/master/C05)  | ex00 --> ex08 |  |
